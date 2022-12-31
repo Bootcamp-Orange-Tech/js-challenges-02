@@ -2,9 +2,9 @@
 
 <strong>❯❯:zap: Challenges:</strong>
 
-- [Clumsy Factorial](https://github.com/vitorg5x/js-challenges-01/tree/main/Adding%20Multiples);
-- [Even & Odd Matrix](https://github.com/vitorg5x/js-challenges-01/tree/main/Equal%20Numbers);
-- [Palindrome Checker](https://github.com/vitorg5x/js-challenges-01/tree/main/FizzBuzz);
-- [Parentheses Validation](https://github.com/vitorg5x/js-challenges-01/tree/main/Recursive%20Call);
-- [Perfect Squares](https://github.com/vitorg5x/js-challenges-01/tree/main/Sequential%20Search);
+- [Clumsy Factorial](https://github.com/vitorg5x/js-challenges-02/tree/main/Clumsy%20Factorial);
+- [Even & Odd Matrix](https://github.com/vitorg5x/js-challenges-02/tree/main/Even%20%26%20Odd%20Matrix);
+- [Palindrome Checker](https://github.com/vitorg5x/js-challenges-02/tree/main/Palindrome%20Checker);
+- [Parentheses Validation](https://github.com/vitorg5x/js-challenges-02/tree/main/Parentheses%20Validation);
+- [Perfect Squares](https://github.com/vitorg5x/js-challenges-02/tree/main/Perfect%20Squares);
 
